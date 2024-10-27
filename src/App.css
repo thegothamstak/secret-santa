@@ -1,0 +1,53 @@
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.table-container {
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.input {
+  flex: 1;
+  padding: 8px;
+}
+
+.add-button, .generate-button {
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.add-button:hover, .generate-button:hover {
+  background-color: #45a049;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.select {
+  margin: 0 8px;
+  padding: 6px;
+}
+
+.assignments-list {
+  list-style-type: none;
+  padding: 0;
+}
