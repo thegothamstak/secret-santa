@@ -33,15 +33,15 @@ To set up and run this application locally, follow these steps:
 
 2. **Navigate into the project directory:**
 
-    cd secret-santa-generator
+    ```cd secret-santa-generator
 
 3. **Install dependencies:**
 
-    npm install
+    ```npm install
 
 4. **Start the application:**
 
-    npm run dev
+    ```npm run dev
 
 The application will be running on http://localhost:5173 in your default web browser.
 
