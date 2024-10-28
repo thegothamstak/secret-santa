@@ -29,7 +29,7 @@ To set up and run this application locally, follow these steps:
    Open your terminal and run:
 
    ```bash
-   git clone https://github.com/yourusername/secret-santa-generator.git
+   git clone https://github.com/thegothamstak/secret-santa-generator.git
 
 2. **Navigate into the project directory:**
 
